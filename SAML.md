@@ -15,7 +15,8 @@
 - Định nghĩa như trên đọc sẽ khó hiểu, nhưng nếu bạn biết nút "Đăng nhập bằng Facebook" ở một số website thì mục đích của cái nút đó chính là mục đích của SAML.
 
 ## 2. Cách hoạt động của SAML.
- 
+ <img width="785" alt="image" src="https://user-images.githubusercontent.com/96764572/173172021-13cce87c-9bb4-4b88-bfef-3bcd4243eb28.png">
+
  Ở hình trên thì: **SP là nhà cung cấp dịch vụ** (là ứng dụng có nút "Đăng nhập bằng Facebook" ấy), **IdP là nhà cung cấp các thực thể** (tài khoản người dùng - IdP ở đây là Facebook đấy).
 
 - Bước 1: User sẽ click vào nút "Đăng nhập bằng tài khoản của cái gì đó" từ browser, request này sẽ được gửi tới SP.
